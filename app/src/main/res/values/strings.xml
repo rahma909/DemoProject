@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">demo</string>
+    <string name="Android_text">Android</string>
+    <string name="sec">1</string>
+    <string name="password">password</string>
+</resources>
